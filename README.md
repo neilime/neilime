@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emilien Escalle</h1>
 <h3 align="center">CEO @ Escemi and CTO at your service</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neilime" alt="neilime" /> </p>
+<p align="left"> 
+  <a href="https://github.com/sponsors/neilime"><img src="https://img.shields.io/badge/%E2%9D%A4-Sponsor-ff69b4" alt="Sponsor"></a>
+  <img src="https://komarev.com/ghpvc/?username=neilime" alt="neilime" /> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/emilienescalle/**
 
