@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm neilime</h1>
+<h1 align="center">Hi 👋, I'm Emilien Escalle</h1>
 <h3 align="center">CEO @ Escemi and CTO at your service</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neilime" alt="neilime" /> </p>
