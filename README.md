@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilien Escalle</h1>
-<h3 align="center">CEO @ <a href="https://github.com/escemi-tech" title="ESCEMI">ESCEMI</a> and CTO @ your service</h3>
+<h3 align="center">CEO @ <a href="https://github.com/escemi-tech" title="ESCEMI">ESCEMI</a> and CTO @ Your service</h3>
 
 <p align="left"> 
   <a href="https://github.com/sponsors/neilime"><img src="https://img.shields.io/badge/%E2%9D%A4-Sponsor-ff69b4" alt="Sponsor"></a>
